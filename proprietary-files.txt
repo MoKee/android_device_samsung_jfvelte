@@ -5,8 +5,8 @@ vendor/lib/libacdbloader.so
 vendor/lib/libaudcal.so
 
 # Bluetooth
-vendor/bin/btnvtool
 vendor/bin/hci_qcomm_init
+vendor/lib/libbtnv.so
 
 # Camera
 cameradata/M10MO_SFW.bin
